@@ -132,7 +132,3 @@ void calculateTTC() {
   float dist_meters = distance_cm / 100.0;
   ttc_seconds = dist_meters / speed;
 }
-
-// ========================================
-// END OF DVISS PHASE 1
-// ========================================
